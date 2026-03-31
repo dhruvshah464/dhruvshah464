@@ -56,7 +56,7 @@ A boundary-pushing engineer focused on **AI/ML**, **Data Science**, and modern *
     <td width="50%">
       <h3> Fision.AI</h3>
       <p>AI financial copilot for portfolio insights and smarter decisions.</p>
-      <a href="fision-ai.vercel.app">Experience It →</a>
+      <a href="https://fision-ai.vercel.app">Experience It →</a>
     </td>
     <td width="50%">
       <h3> GlobeTrotter</h3>
