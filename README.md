@@ -1,130 +1,106 @@
 <!--
-  🚀 PREMIUM GITHUB PROFILE README
-  Designed for: Dhruv Shah
-  Vibe: Futuristic, Minimalist, Linear/Vercel-inspired
-  
-  Instructions:
-  1. Replace "dhruvshah" in the URLs with your actual GitHub username where applicable.
-  2. Update the "Socials" links with your actual profiles.
-  3. Customize the "Currently Building" section with your latest project.
+🚀 PREMIUM GITHUB PROFILE README
+Designed for: Dhruv Shah (@dhruvshah464)
+Vibe: High-Tech, Minimalist, Cyber-Physical
 -->
 
 <div align="center">
 
-# 🌌 Dhruv Shah
-### **Engineering the Convergence of Intelligence & Interaction**
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;AI+%2F+ML+Engineer;Cyber-Physical+Systems+Architect;Visionary+Product+Builder)](https://git.io/typing-svg)
-
----
-
-[**LinkedIn**](https://linkedin.com/in/dhruv-shah) • [**Portfolio**](https://yourportfolio.com) • [**Email**](mailto:your.email@example.com) • [**Twitter**](https://twitter.com/yourhandle)
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0D1117%26height%3D120%26section%3Dheader%26text%3DDhruv%2520Shah%26fontSize%3D50%26fontColor%3D58a6ff%26fontAlignY%3D40%26desc%3DEngineering%2520the%2520Convergence%2520of%2520Intelligence%2520%26%2520Interaction%26descAlignY%3D65%26descSize%3D20" width="100%"/>
 
 </div>
 
-## 🧬 Executive Summary
+🧬 Executive Summary
 
-A boundary-pushing Engineer with a dual focus on **Electrical & Electronics Engineering** and **Data Science**. I specialize in bridging the gap between hardware and software, leveraging the **MERN stack**, **Deep Learning**, and **Embedded Systems** to build resilient, AI-first products.
+A boundary-pushing engineer architecting at the intersection of Artificial Intelligence, Data Science, and Modern Systems Engineering. I specialize in building intelligent, scalable platforms utilizing the MERN stack, Deep Learning, and data-driven architectures—translating complex theoretical models into high-impact, AI-first products.
 
-- 🎓 **Academic Core:** Nirma University (EEE) & IIT Madras (Data Science)
-- 🛠️ **Craftsmanship:** Architecting scalable full-stack applications and high-fidelity IoT systems.
-- 🔭 **Vision:** Currently obsessed with the intersection of **Cyber-Physical Systems** and **Generative AI**.
+🎓 Academic Core: B.Tech Electrical Engineering, Nirma University (Specialization: Cyber-Physical Systems)
 
----
+🛠️ Craftsmanship: Architecting scalable full-stack applications and AI-powered infrastructure with rigorous foundations in ML, Deep Learning, and next-gen web technologies.
 
-## ⚡ Technical Arsenal
+🔭 Vision: Pioneering the integration of Generative AI into real-world physical systems to forge intelligent, future-ready solutions.
+
+⚡ Technical Arsenal
 
 <div align="center">
 
-### **Languages & Core**
-[![My Skills](https://skillicons.dev/icons?i=python,js,c,cpp,html,css,solidity)](https://skillicons.dev)
+Core & Languages
 
-### **AI / ML & Data Science**
-[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,pandas,numpy)](https://skillicons.dev)
+AI, ML & Data Science
 
-### **Web & Systems**
-[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,docker,git,arduino)](https://skillicons.dev)
+Architecture & Web
+
+
+
+
+
+
 
 </div>
 
----
+🚀 Projects in Orbit
 
-## 🚀 Projects in Orbit
-
-<table border="0">
-  <tr>
-    <td width="50%">
-      <h3>🛰️ Project Alpha</h3>
-      <p>A high-performance IoT gateway for Cyber-Physical Systems. Built with Arduino, Python, and MQTT.</p>
-      <a href="#">View Repository →</a>
-    </td>
-    <td width="50%">
-      <h3>🧠 NeuralPulse</h3>
-      <p>Full-stack AI dashboard using MERN and NLP to analyze real-time market sentiment for startups.</p>
-      <a href="#">View Repository →</a>
-    </td>
-  </tr>
-    <tr>
-    <td width="50%">
-      <h3>⚡ GridSense</h3>
-      <p>Advanced predictive maintenance system for electrical grids using XGBoost and feature engineering.</p>
-      <a href="#">View Repository →</a>
-    </td>
-    <td width="50%">
-      <h3>📦 OpenNexus</h3>
-      <p>A modular ERP extension framework for Odoo Community Services. Optimized for scale.</p>
-      <a href="#">View Repository →</a>
-    </td>
-  </tr>
+<table border="0" align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/dhruvshah464/Fision">Fision.AI</a></h3>
+<p><i>AI financial copilot for dynamic portfolio insights and data-driven market decisions.</i></p>
+<code>Python</code> <code>React</code> <code>TensorFlow</code>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/dhruvshah464/globeTrotter">GlobeTrotter</a></h3>
+<p><i>Next-gen startup discovery platform leveraging real-time geospatial insights and dynamic mapping.</i></p>
+<code>MERN</code> <code>Geospatial API</code>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/dhruvshah464/agriX">AgriX</a></h3>
+<p><i>Predictive intelligence platform for agriculture, mapping crop yields via ML and climate data.</i></p>
+<code>PyTorch</code> <code>Data Science</code>
+</td>
+<td width="50%" valign="top">
+<h3><a href="https://github.com/dhruvshah464/GridMind.AI">GridMind.AI</a></h3>
+<p><i>Smart energy grid optimization engine forecasting consumption and minimizing infrastructure costs.</i></p>
+<code>IoT</code> <code>Machine Learning</code>
+</td>
+</tr>
 </table>
 
----
+📈 Engineering Metrics
 
-## 📈 Engineering Metrics
+(Real-time telemetry from @dhruvshah464)
 
 <div align="center">
 
-| **GitHub Analytics** | **Streak & Languages** |
-| :--- | :--- |
-| <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvshah&show_icons=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true&rank_icon=github" /> | <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvshah&layout=compact&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117&hide_border=true" /> |
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddhruvshah464%26show_icons%3Dtrue%26title_color%3D58a6ff%26icon_color%3D58a6ff%26text_color%3Dc9d1d9%26bg_color%3D0d1117%26hide_border%3Dtrue%26border_radius%3D10%26rank_icon%3Dgithub" height="165" alt="GitHub Stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddhruvshah464%26layout%3Dcompact%26title_color%3D58a6ff%26icon_color%3D58a6ff%26text_color%3Dc9d1d9%26bg_color%3D0d1117%26hide_border%3Dtrue%26border_radius%3D10" height="165" alt="Top Languages" />
 
-### **Weekly Activity**
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dhruvshah&theme=night-owl&area=true&hide_border=true&bg_color=0d1117)
+<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Ddhruvshah464%26theme%3Dreact-dark%26hide_border%3Dtrue%26bg_color%3D0d1117%26color%3D58a6ff%26line%3D58a6ff%26point%3Dffffff" width="100%" alt="Activity Graph" />
 
 </div>
 
----
+🛠️ Current Trajectory
 
-## 🛠️ Currently Building
+"Building the next-generation OS for autonomous hardware."
 
-> **"Building the next-gen OS for autonomous hardware."**
-> I am currently developing a proprietary framework for AI-integrated embedded devices that reduces latency in Cyber-Physical feedback loops. 
+Currently engineering a proprietary framework for AI-integrated embedded devices designed to drastically reduce latency in Cyber-Physical feedback loops.
 
----
+🏅 Beyond the Terminal
 
-## 🏅 Beyond the Code
+Leadership and precision extend beyond the codebase:
 
-When I'm not architecting systems, you'll find me:
-- 🏏 **Leading From the Front:** Captain of the Gujarat Cricket Team.
-- 🎾 **On the Court:** Gujarat-level Tennis player.
-- 📸 **Capturing Stories:** Passionate about street photography and cinematic video editing.
+🏏 Strategic Leadership: Captain of the Gujarat State Cricket Team.
 
----
+🎾 Athletic Discipline: Gujarat-level Competitive Tennis Player.
+
+📸 Visual Storytelling: Adept in street photography and cinematic video editing.
 
 <div align="center">
 
-### **Let's Connect & Build the Future**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhruv-shah)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
+"The best way to predict the future is to architect it."
 <br />
+— Dhruv Shah
 
-**"The best way to predict the future is to architect it."**
-<br />
-*— Dhruv Shah*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" width="100%"/>
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0D1117%26height%3D80%26section%3Dfooter" width="100%"/>
 
 </div>
