@@ -1,106 +1,112 @@
-<!--
-🚀 PREMIUM GITHUB PROFILE README
-Designed for: Dhruv Shah (@dhruvshah464)
-Vibe: High-Tech, Minimalist, Cyber-Physical
--->
-
 <div align="center">
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0D1117%26height%3D120%26section%3Dheader%26text%3DDhruv%2520Shah%26fontSize%3D50%26fontColor%3D58a6ff%26fontAlignY%3D40%26desc%3DEngineering%2520the%2520Convergence%2520of%2520Intelligence%2520%26%2520Interaction%26descAlignY%3D65%26descSize%3D20" width="100%"/>
+# 🌌 Dhruv Shah
+### **Building AI-Native Systems for the Future**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=AI+%2F+ML+Engineer;Full+Stack+Developer;Data+Driven+Builder;Startup+Enthusiast)](https://git.io/typing-svg)
+
+---
+
+[**LinkedIn**](https://linkedin.com/in/shah-dhruv-) • [**Portfolio**](https://dhruv-u-shah.vercel.app) • [**Email**](mailto:dhruvurmilshah@gmail.com)
 
 </div>
 
-🧬 Executive Summary
+---
 
-A boundary-pushing engineer architecting at the intersection of Artificial Intelligence, Data Science, and Modern Systems Engineering. I specialize in building intelligent, scalable platforms utilizing the MERN stack, Deep Learning, and data-driven architectures—translating complex theoretical models into high-impact, AI-first products.
+## 🧬 Overview
 
-🎓 Academic Core: B.Tech Electrical Engineering, Nirma University (Specialization: Cyber-Physical Systems)
+AI-focused engineer building **intelligent, scalable systems** at the intersection of **Machine Learning, Data Science, and Full-Stack Development**.  
+I turn complex data into **decision-driven products** with real-world impact.
 
-🛠️ Craftsmanship: Architecting scalable full-stack applications and AI-powered infrastructure with rigorous foundations in ML, Deep Learning, and next-gen web technologies.
+- 🎓 **B.Tech @ Nirma University** — Cyber-Physical Systems  
+- 🛠️ **Focus:** AI/ML, Deep Learning, MERN, Data Systems  
+- 🔭 **Exploring:** Generative AI + Intelligent Real-World Systems  
 
-🔭 Vision: Pioneering the integration of Generative AI into real-world physical systems to forge intelligent, future-ready solutions.
+---
 
-⚡ Technical Arsenal
+## ⚡ Tech Stack
 
 <div align="center">
 
-Core & Languages
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=python,js,c,cpp,html,css)](https://skillicons.dev)
 
-AI, ML & Data Science
+### AI / ML
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,scikitlearn,opencv,pandas,numpy)](https://skillicons.dev)
 
-Architecture & Web
-
-
-
-
-
-
+### Web / Systems
+[![My Skills](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,nextjs,tailwind,docker,git)](https://skillicons.dev)
 
 </div>
 
-🚀 Projects in Orbit
+---
 
-<table border="0" align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/dhruvshah464/Fision">Fision.AI</a></h3>
-<p><i>AI financial copilot for dynamic portfolio insights and data-driven market decisions.</i></p>
-<code>Python</code> <code>React</code> <code>TensorFlow</code>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/dhruvshah464/globeTrotter">GlobeTrotter</a></h3>
-<p><i>Next-gen startup discovery platform leveraging real-time geospatial insights and dynamic mapping.</i></p>
-<code>MERN</code> <code>Geospatial API</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/dhruvshah464/agriX">AgriX</a></h3>
-<p><i>Predictive intelligence platform for agriculture, mapping crop yields via ML and climate data.</i></p>
-<code>PyTorch</code> <code>Data Science</code>
-</td>
-<td width="50%" valign="top">
-<h3><a href="https://github.com/dhruvshah464/GridMind.AI">GridMind.AI</a></h3>
-<p><i>Smart energy grid optimization engine forecasting consumption and minimizing infrastructure costs.</i></p>
-<code>IoT</code> <code>Machine Learning</code>
-</td>
-</tr>
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Fision.AI</h3>
+      <p>AI financial copilot for portfolio insights and smarter decisions.</p>
+      <a href="https://github.com/dhruvshah464/Fision">View →</a>
+    </td>
+    <td width="50%">
+      <h3>GlobeTrotter</h3>
+      <p>Startup discovery platform with maps and real-time insights.</p>
+      <a href="https://github.com/dhruvshah464/globeTrotter">View →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>AgriX</h3>
+      <p>AI-driven crop yield prediction and analytics.</p>
+      <a href="https://github.com/dhruvshah464/agriX">View →</a>
+    </td>
+    <td width="50%">
+      <h3>GridMind.AI</h3>
+      <p>AI platform for energy optimization and cost prediction.</p>
+      <a href="https://github.com/dhruvshah464/GridMind.AI">View →</a>
+    </td>
+  </tr>
 </table>
 
-📈 Engineering Metrics
+---
 
-(Real-time telemetry from @dhruvshah464)
+## 📈 Stats
 
 <div align="center">
 
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddhruvshah464%26show_icons%3Dtrue%26title_color%3D58a6ff%26icon_color%3D58a6ff%26text_color%3Dc9d1d9%26bg_color%3D0d1117%26hide_border%3Dtrue%26border_radius%3D10%26rank_icon%3Dgithub" height="165" alt="GitHub Stats" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddhruvshah464%26layout%3Dcompact%26title_color%3D58a6ff%26icon_color%3D58a6ff%26text_color%3Dc9d1d9%26bg_color%3D0d1117%26hide_border%3Dtrue%26border_radius%3D10" height="165" alt="Top Languages" />
-
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3Ddhruvshah464%26theme%3Dreact-dark%26hide_border%3Dtrue%26bg_color%3D0d1117%26color%3D58a6ff%26line%3D58a6ff%26point%3Dffffff" width="100%" alt="Activity Graph" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhruvshah464&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvshah464&layout=compact&theme=github_dark&hide_border=true" />
 
 </div>
 
-🛠️ Current Trajectory
+---
 
-"Building the next-generation OS for autonomous hardware."
+## 🛠️ Currently Building
 
-Currently engineering a proprietary framework for AI-integrated embedded devices designed to drastically reduce latency in Cyber-Physical feedback loops.
+> **AI-native systems for real-world decision intelligence**  
+> Focused on combining **ML + systems + product thinking** into scalable solutions.
 
-🏅 Beyond the Terminal
+---
 
-Leadership and precision extend beyond the codebase:
+## 🏅 Beyond Tech
 
-🏏 Strategic Leadership: Captain of the Gujarat State Cricket Team.
+- 🏏 Gujarat Cricket Team Captain  
+- 🎾 State-level Tennis Player  
+- 📸 Photography & Cinematic Editing  
 
-🎾 Athletic Discipline: Gujarat-level Competitive Tennis Player.
-
-📸 Visual Storytelling: Adept in street photography and cinematic video editing.
+---
 
 <div align="center">
 
-"The best way to predict the future is to architect it."
-<br />
-— Dhruv Shah
+### Let’s Build Something Meaningful
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D0D1117%26height%3D80%26section%3Dfooter" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shah-dhruv-)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvurmilshah@gmail.com)
+
+<br/>
+
+**"Build systems that think, not just execute."**
 
 </div>
