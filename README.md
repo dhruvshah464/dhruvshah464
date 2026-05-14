@@ -71,9 +71,9 @@ A boundary-pushing engineer focused on **AI/ML**, **Data Science**, and modern *
       <a href="https://github.com/dhruvshah464/agriX">View Repository →</a>
     </td>
     <td width="50%">
-      <h3> GridMind.AI</h3>
-      <p>AI platform for smart energy optimization and cost prediction.</p>
-      <a href="https://github.com/dhruvshah464/GridMind.AI">View Repository →</a>
+      <h3> SignalHire AI</h3>
+      <p>AI platform for smart outreach and Job Search.</p>
+      <a href="https://github.com/dhruvshah464/SignalHire-AI">View Repository →</a>
     </td>
   </tr>
 </table>
